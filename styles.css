@@ -6,3 +6,15 @@ h1 {
 p {
   color: red;
 }
+
+div {
+  background-color: teal;
+  width: 100px;
+  height: 400px;
+  margin: 30px;
+  padding: 20px;
+  font-family: Arial, sans-serif; //multiple just in case one isnt avalaible - it will begin using the other/more common fonts
+  font-size: 28px;
+  font-weight: bold;
+  border: 3px solid blue; 
+}
